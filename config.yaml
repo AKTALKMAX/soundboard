@@ -1,0 +1,8 @@
+# Configuration file for the sound board
+# Keeps the file names
+# Files will need to be grabbed within the execution
+# space of the app/temp dir
+
+btn_one: 
+  title: "brah"
+  filename: "brah.mp3"
